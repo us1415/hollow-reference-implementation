@@ -1,12 +1,14 @@
 # Hollow Reference Implementation
 
+[![Join the chat at https://gitter.im/Netflix/hollow](https://badges.gitter.im/Netflix/hollow.svg)](https://gitter.im/Netflix/hollow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is a reference implementation for NetflixOSS [Hollow](https://github.com/Netflix/hollow).  
 
 Clone this project, import it into your IDE, then follow along with the [quick start guide](http://hollow.how/quick-start) — you'll have a demo up and running in minutes, and a fully production-scalable implementation of Hollow at your fingertips in about an hour.  From there, you can plug in your data model and it's off to the races.
 
 ## Get Support
 
-Hollow is maintained by the Platform Data Technologies team at Netflix.  Support can be obtained directly from us or from fellow users through our Gitter channel or by posting a question tagged with _hollow_ on Stack Overflow.
+Hollow is maintained by the Platform Data Technologies team at Netflix.  Support can be obtained directly from us or from fellow users through [Gitter](https://gitter.im/Netflix/hollow) or by posting a question tagged with _hollow_ on Stack Overflow.
 
 ## LICENSE
 
