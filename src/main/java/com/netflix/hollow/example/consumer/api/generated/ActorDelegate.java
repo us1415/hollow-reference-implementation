@@ -3,7 +3,6 @@ package com.netflix.hollow.example.consumer.api.generated;
 import com.netflix.hollow.api.objects.delegate.HollowObjectDelegate;
 
 
-
 @SuppressWarnings("all")
 public interface ActorDelegate extends HollowObjectDelegate {
 

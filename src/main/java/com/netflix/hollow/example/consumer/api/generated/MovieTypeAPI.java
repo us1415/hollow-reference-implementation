@@ -3,7 +3,6 @@ package com.netflix.hollow.example.consumer.api.generated;
 import com.netflix.hollow.api.custom.HollowObjectTypeAPI;
 import com.netflix.hollow.core.read.dataaccess.HollowObjectTypeDataAccess;
 
-
 @SuppressWarnings("all")
 public class MovieTypeAPI extends HollowObjectTypeAPI {
 

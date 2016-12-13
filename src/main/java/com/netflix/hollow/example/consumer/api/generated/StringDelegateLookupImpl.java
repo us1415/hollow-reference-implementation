@@ -4,7 +4,6 @@ import com.netflix.hollow.api.objects.delegate.HollowObjectAbstractDelegate;
 import com.netflix.hollow.core.read.dataaccess.HollowObjectTypeDataAccess;
 import com.netflix.hollow.core.schema.HollowObjectSchema;
 
-
 @SuppressWarnings("all")
 public class StringDelegateLookupImpl extends HollowObjectAbstractDelegate implements StringDelegate {
 

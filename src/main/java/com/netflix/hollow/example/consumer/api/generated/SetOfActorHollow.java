@@ -1,9 +1,9 @@
 package com.netflix.hollow.example.consumer.api.generated;
 
 import com.netflix.hollow.api.objects.HollowSet;
+import com.netflix.hollow.core.schema.HollowSetSchema;
 import com.netflix.hollow.api.objects.delegate.HollowSetDelegate;
 import com.netflix.hollow.api.objects.generic.GenericHollowRecordHelper;
-
 
 @SuppressWarnings("all")
 public class SetOfActorHollow extends HollowSet<ActorHollow> {
