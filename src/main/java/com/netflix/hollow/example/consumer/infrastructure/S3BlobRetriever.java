@@ -79,6 +79,9 @@ public class S3BlobRetriever implements HollowBlobRetriever {
         			currentSnapshotStateId += nextGap;
         			pos += VarInt.sizeOfVLong(nextGap);
         		}
+        		
+                if(currentSnapshotStateId != 0)
+                    return knownSnapshotBlob(currentSnapshotStateId);
         	}
         } catch(IOException e) {
         	throw new RuntimeException(e);
